@@ -1,6 +1,6 @@
 Package.describe({
   name: 'fourquet:dev',
-  version: '0.0.2',
+  version: '0.0.3',
   summary: 'DebugOnly umbrella package for Meteor development.',
   git: 'https://github.com/fourquet/meteor-package-dev',
   documentation: 'README.md',

@@ -1,6 +1,6 @@
 if (Package.templating) {
   Package.templating.Template.registerHelper('debug',
-    optionalValue => {
+    function (optionalValue) {
       console.log('Current Context');
       console.log('====================');
       console.log(this);

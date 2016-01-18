@@ -17,7 +17,7 @@ DebugOnly umbrella package for Meteor development.
 Additionally, if the application uses blaze `templating`, `{{debug}}` and `{{debug context}}` are available and print out context information for the surrounding template to the browser console.
 
 #### Version
-0.0.2
+0.0.3
 
 #### License
 MIT
