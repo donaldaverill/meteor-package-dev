@@ -1,6 +1,6 @@
 Package.describe({
   name: 'fourquet:dev',
-  version: '0.0.3',
+  version: '0.0.4',
   summary: 'DebugOnly umbrella package for Meteor development.',
   git: 'https://github.com/fourquet/meteor-package-dev',
   documentation: 'README.md',
@@ -14,7 +14,6 @@ const packages = [
   'fourquet:anti-gravity@1.0.4',
   'babrahams:temple@0.4.1',
   'constellation:tiny@0.4.0',
-  'meteorhacks:kadira-profiler@1.2.1',
 ];
 
 const clientFiles = [
